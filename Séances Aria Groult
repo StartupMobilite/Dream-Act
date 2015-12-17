@@ -1,3 +1,5 @@
 1/2 séance : Création index pour l'application, mise en place des technos et des modules à utiliser.
              Création interface d'inscription basique par email, sans routing.
 3 séance   : Création des routes, apprentissage Abyssa, prise en main react 
+Séance 16/12/2015 : Resolution du problème d'affichage via l'application ( on pouvait afficher via navigateur mais pas sur l'appli ) installation de gulp et d'un watcher pour une compilation dès qu'une sauvegarde est faite
+                    -> problème d'actualité
